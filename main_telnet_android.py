@@ -4,7 +4,7 @@ import time
 
 from key_hit import KBHit
 
-HOST = "192.168.1.165"
+HOST = "localhost"
 PORT = 5554
 MODE = 0  # 0=simple, 1=todo NMEA
 
