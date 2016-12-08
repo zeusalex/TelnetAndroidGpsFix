@@ -10,7 +10,7 @@ You can change the following:
 
 ## Requirements
 
-* telnetlib & pynmea2 are required.
+* pynmea2 is required.
 
 To make sure you have all the packages installed, run `pip install -r requirements.txt`
 
